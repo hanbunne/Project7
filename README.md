@@ -1,2 +1,6 @@
 # Project7
-I will make it come true.
+
+Project-7 is a simultaneous turnbased deck-building game.
+inspired by many card games.
+- hearthstone (especially battlegrounds mode)
+- many deckbuilding game (dominion, acsension, slay the spire)
